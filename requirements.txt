@@ -1,5 +1,2 @@
 argparse
-socket
-subprocess
-urllib.request
-python-whois
+request
